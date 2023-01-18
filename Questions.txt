@@ -1,0 +1,24 @@
+Java Home Assignment[Submit date: 5Feb2022]
+--------------------------------------------
+Q1 program  to check valid password
+   -More than 8 in length
+   -Minimum 1 capital char
+   -Minimum 1 small char
+   -1 special symbol
+Q2 program to seprate small,capital,symbol,numbers.
+   Enter String: abc!2dRBcD3i&U#
+   output
+    Small Letter:abcdci
+    Capital: RBDU
+    Number:23
+    Symbol:!&#
+Q3 program to display number in expended form.
+   Enter Number: 35219
+   output: 
+    30000+5000+200+10+9
+Q4 program to print number in word format
+   Enter a Number:4523
+   output: Four Five Two Three
+Q5 program to remove consecutive letter in string
+   Enter String: between
+   output: betwen
